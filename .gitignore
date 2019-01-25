@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+Data/__pycache__
+Inference/__pycache__
+Models/__pycache__
+Training/__pycache__
+Word_embedding/glove.6B.100d.txt
