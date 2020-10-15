@@ -10,3 +10,5 @@
 4. Navigate to Re-implementation of Affect-LM.
 5. Run training, by running the Training/raining_Base_LM.py file.
 6. Sample sentences from trained model by running sample_words.py in the Inference folder. The seed sentences are taken from Inference/inference_input.txt and the sampled sentences are written to Inference/inference_output.txt.
+
+
